@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        ".env*": "dotenv",
+        "random": "cpp",
+        "limits": "cpp",
+        "array": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    }
+}

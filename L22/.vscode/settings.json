@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.ejs": "html",
+        ".env*": "dotenv",
+        "random": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp",
+        "type_traits": "cpp"
+    }
+}
